@@ -32,5 +32,8 @@ The dataset is split into training, validation, and test sets with the following
 
 *F1-score:* 98.69%
 
+**links to model checkpoints:** https://drive.google.com/drive/folders/1wvGNCLl0kEWbouvL1wqX9nNSpLb_oPmQ?usp=sharing
+
+
 **Sample predictions:**
 ![photo_2024-06-22_21-17-29](https://github.com/MirasBaisbay/FireDetection/assets/107981665/e6a5304e-c4f1-4b32-9842-b00da868a57b)
